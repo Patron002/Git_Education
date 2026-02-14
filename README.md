@@ -5,5 +5,5 @@
 ## Команды
 
 ## Источники
-<https://git-scm.com/learn>  
-<https://www.youtube.com/watch?v=zTjRZNkhiEU>
+Документация в самом сайте (Официальный сайт) <https://git-scm.com/learn>  
+Learn Git Full Course (Youtube) -> <https://www.youtube.com/watch?v=zTjRZNkhiEU>
