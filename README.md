@@ -5,3 +5,4 @@
 ## Команды
 
 ## Источники
+<https://git-scm.com/learn>
