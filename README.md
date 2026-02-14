@@ -6,3 +6,4 @@
 
 ## Источники
 <https://git-scm.com/learn>
+<https://www.youtube.com/watch?v=zTjRZNkhiEU>
