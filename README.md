@@ -22,7 +22,9 @@ GIT - Распределеная система управлениями вер�
 
 Отображение версии Git -> ```git --version```  
   
-Настройка **ИМЯ** и **EMAIL** автора -> ```git config --global user.name <ИМЯ>``` ```git config --global user.email <EMAIL>```
+Настройка **ИМЯ** и **EMAIL** автора -> ```git config --global user.name <ИМЯ>``` ```git config --global user.email <EMAIL>```  
+
+Проверка настройки Git -> ```git config --list```  
 
 # Источники
 Download Git: <https://git-scm.com/install/>  
